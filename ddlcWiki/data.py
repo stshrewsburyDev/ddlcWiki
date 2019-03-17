@@ -12,8 +12,8 @@ CharacterInfo = {
         "Height": "5'2'' (157cm)",
         "HairColour": "Apricot",
         "EyeColour": "Sky blue",
-        "ImgNormal": "https://stshrewsburydev.github.io/official_site/API/DDLCpy/images/InfoNormal/Sayori.png",
-        "ImgChibi": "https://stshrewsburydev.github.io/official_site/API/DDLCpy/images/InfoChibi/SayoriChibi.png"
+        "ImgNormal": "https://stshrewsburydev.github.io/official_site/API/ddlcWiki/images/InfoNormal/Sayori.png",
+        "ImgChibi": "https://stshrewsburydev.github.io/official_site/API/ddlcWiki/images/InfoChibi/SayoriChibi.png"
     },
 
     "yuriInfo": {
@@ -23,8 +23,8 @@ CharacterInfo = {
         "Height": "5'5'' (165cm)",
         "HairColour": "Dark purple",
         "EyeColour": "Bright orchid, Grayish purple (photorealistic)",
-        "ImgNormal": "https://stshrewsburydev.github.io/official_site/API/DDLCpy/images/InfoNormal/Yuri.png",
-        "ImgChibi": "https://stshrewsburydev.github.io/official_site/API/DDLCpy/images/InfoChibi/YuriChibi.png"
+        "ImgNormal": "https://stshrewsburydev.github.io/official_site/API/ddlcWiki/images/InfoNormal/Yuri.png",
+        "ImgChibi": "https://stshrewsburydev.github.io/official_site/API/ddlcWiki/images/InfoChibi/YuriChibi.png"
     },
 
     "natsukiInfo": {
@@ -34,8 +34,8 @@ CharacterInfo = {
         "Height": "4'11'' (149cm)",
         "HairColour": "Pink",
         "EyeColour": "Pink",
-        "ImgNormal": "https://stshrewsburydev.github.io/official_site/API/DDLCpy/images/InfoNormal/Natsuki.png",
-        "ImgChibi": "https://stshrewsburydev.github.io/official_site/API/DDLCpy/images/InfoChibi/NatsukiChibi.png"
+        "ImgNormal": "https://stshrewsburydev.github.io/official_site/API/ddlcWiki/images/InfoNormal/Natsuki.png",
+        "ImgChibi": "https://stshrewsburydev.github.io/official_site/API/ddlcWiki/images/InfoChibi/NatsukiChibi.png"
     },
 
     "monikaInfo": {
@@ -45,8 +45,8 @@ CharacterInfo = {
         "Height": "5'3'' (160cm)",
         "HairColour": "Brown",
         "EyeColour": "Green",
-        "ImgNormal": "https://stshrewsburydev.github.io/official_site/API/DDLCpy/images/InfoNormal/Monika.png",
-        "ImgChibi": "https://stshrewsburydev.github.io/official_site/API/DDLCpy/images/InfoChibi/MonikaChibi.png"
+        "ImgNormal": "https://stshrewsburydev.github.io/official_site/API/ddlcWiki/images/InfoNormal/Monika.png",
+        "ImgChibi": "https://stshrewsburydev.github.io/official_site/API/ddlcWiki/images/InfoChibi/MonikaChibi.png"
     },
 
     "mcInfo": {
@@ -56,7 +56,7 @@ CharacterInfo = {
         "Height": "UNKNOWN",
         "HairColour": "Brown",
         "EyeColour": "UNKNOWN",
-        "ImgNormal": "https://stshrewsburydev.github.io/official_site/API/DDLCpy/images/InfoNormal/MainCharacter.png",
-        "ImgChibi": "https://stshrewsburydev.github.io/official_site/API/DDLCpy/images/InfoChibi/MainCharacterChibi.png"
+        "ImgNormal": "https://stshrewsburydev.github.io/official_site/API/ddlcWiki/images/InfoNormal/MainCharacter.png",
+        "ImgChibi": "https://stshrewsburydev.github.io/official_site/API/ddlcWiki/images/InfoChibi/MainCharacterChibi.png"
     }
 }

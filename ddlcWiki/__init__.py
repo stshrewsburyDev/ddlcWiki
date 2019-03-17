@@ -16,6 +16,11 @@ def ListCharacters():
 
 
 def GetAllInfo(character=None):
+    """
+    Shows the full info of the character entered.
+    :param character: String name of a character
+    :return: JSON library of all info on inputted character
+    """
     if character is None:
         raise NameError("GetAllInfo() expected a character name but received {0}".format(character))
     else:
