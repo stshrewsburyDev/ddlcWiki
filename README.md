@@ -18,6 +18,12 @@ pip install ddlcWiki
 python setup.py install
 ```
 
+ChangeLogs:
+-----------
+
+* Fixed the info on the help command on the module (``help(ddlcWiki)``)
+* Updated the image URL's to the new ones
+
 Using in your code:
 -------------------
 
