@@ -6,7 +6,7 @@ with open("README.md", "r") as README_file:
 
 setup(
     name='ddlcWiki',
-    version='1.0',
+    version='1.1',
     description='DDLC wiki Python 3 module. (Doki doki literature club wiki)',
     license="MIT",
     long_description=long_description,
