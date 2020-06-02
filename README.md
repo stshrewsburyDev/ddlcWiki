@@ -1,15 +1,16 @@
 The ddlcWiki module for Python 3
 ================================
 
+NOTICE: This module is no longer worked on (at all) and has been archived, the PyPi version of this module has been removed and I no longer accept issue requests on this anymore.
+
 #### Made by stshrewsburyDev
 
 Installation:
 -------------
 
-###### Install with pip:
+###### Install with pip: (No longer working use the Install from source method)
 
 ```
-pip install ddlcWiki
 ```
 
 ###### Install from source:
@@ -76,4 +77,4 @@ Links:
 ------
 
 * [GitHub repository page](https://github.com/stshrewsburyDev/ddlcWiki)
-* [The stshrewsburyDev official site](https://stshrewsburydev.github.io/official_site/)
+* [The stshrewsburyDev official site](https://stshrewsburydev.github.io/)
